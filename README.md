@@ -1,0 +1,2 @@
+# ScanChinese_Py
+用Python写的提取游戏服务端中的中文项目
